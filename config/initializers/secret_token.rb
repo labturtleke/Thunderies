@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Thunderies::Application.config.secret_token = 'c3baa20a49b560c18fb49b954ddf778787090a98345b827b43a591d56c97257b48c46d4d34d38e3137e5cfa5dec10edfefc41b4559e3010cf07dca5cfca60a5d'
+Thunderies::Application.config.secret_token = '205b11e1522ffa026a9ce5fbf45464a0f855b478983309c370ec0aa91a8e7da7ee9fe500410cbe78e780dcdbd9db9851cc61275aa91ab6169c888594458062da'

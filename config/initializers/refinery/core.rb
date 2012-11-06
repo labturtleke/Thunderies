@@ -28,11 +28,11 @@ Refinery::Core.configure do |config|
   # config.menu_hide_children = false
 
   # CSS class selectors for menu helper
-  # config.menu_css = {:first=>"first", :last=>"last", :selected=>"selected"}
+  # config.menu_css = {:selected=>"selected", :first=>"first", :last=>"last"}
 
   # Should set this if concerned about DOS attacks. See
   # http://markevans.github.com/dragonfly/file.Configuration.html#Configuration
-  # config.dragonfly_secret = "d97621a00566f966eeb222f0e3c57a06a97f04f091a9045d"
+  # config.dragonfly_secret = "7f813679b7e7fa8bc5e2861648ad05fc694ba329ba14e266"
 
   # Show/hide IE6 upgrade message in the backend
   # config.ie6_upgrade_message_enabled = true
