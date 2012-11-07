@@ -8,6 +8,9 @@ gem 'rails', '3.2.8'
 group :development, :test do
   gem 'sqlite3'
 end
+group :production do
+  gem 'pg'
+end
 
 gem 'json'
 
@@ -57,4 +60,3 @@ gem 'heroku'
 gem 'fog'
 
 # Postgres support (added for Heroku)
-gem 'pg'
