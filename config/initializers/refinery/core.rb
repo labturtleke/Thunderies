@@ -14,7 +14,7 @@ Refinery::Core.configure do |config|
   # config.base_cache_key = :refinery
 
   # Site name
-  # config.site_name = "Company Name"
+  # config.site_name = "Thunderies"
 
   # This activates Google Analytics tracking within your website. If this
   # config is left blank or set to UA-xxxxxx-x then no remote calls to
@@ -32,7 +32,7 @@ Refinery::Core.configure do |config|
 
   # Should set this if concerned about DOS attacks. See
   # http://markevans.github.com/dragonfly/file.Configuration.html#Configuration
-  # config.dragonfly_secret = "7f813679b7e7fa8bc5e2861648ad05fc694ba329ba14e266"
+  # config.dragonfly_secret = "401d859f62ac71d36f92bf18e887c2aaedc8950e713e7b7d"
 
   # Show/hide IE6 upgrade message in the backend
   # config.ie6_upgrade_message_enabled = true
